@@ -40,6 +40,3 @@ During this internship, I am learning and implementing the following core domain
 - Understanding agent architectures and multi-agent workflows  
 - Building simple autonomous agents for problem-solving  
 - Workflow orchestration using tools/LLM-based agent frameworks
-
-## 📁 Repository Structure
-
